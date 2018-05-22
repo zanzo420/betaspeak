@@ -1,0 +1,1 @@
+<?php $nicklist = json_decode('{"46.41.134.20":"&raquo; BETASPEAK.PL :: WITAMY! &laquo;","95.160.153.181":"TeJk . Samuraj"}',1);
