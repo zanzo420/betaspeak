@@ -10,10 +10,10 @@ TeamSpeak3 Website
 
 
 
-![website1](https://i.imgur.com/nPzVKus.mp4)
-![website2](https://i.imgur.com/5PAGmZ9.gif)
+![website1](https://i.imgur.com/119DI4S.gif)
+![website2](https://i.imgur.com/ToC713i.gif)
 
 ### USER PANEL (need to be connected with server to look like should)
-![website3](https://i.imgur.com/hHO4zA1.png)
+![website3](https://i.imgur.com/ODdj1kd.gif)
 
 ![forum pres.](https://i.imgur.com/hHO4zA1.png)
