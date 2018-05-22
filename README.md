@@ -2,14 +2,14 @@
 TeamSpeak3 Website
 
 #### website is fully working, just change config file and upload on your webserver
-
-#### panel/config.php
-#### panel/specjalne/rankup_new/other/config.php
-#### panel/specjalne/channelcreator/data/config.php
-#### panel/specjalne/banner/config.php
-
-
-
+  
+##### panel/config.php
+##### panel/specjalne/rankup_new/other/config.php
+##### panel/specjalne/channelcreator/data/config.php
+##### panel/specjalne/banner/config.php
+ 
+ 
+ 
 ![website1](https://i.imgur.com/119DI4S.gif)
 ![website2](https://i.imgur.com/ToC713i.gif)
 
