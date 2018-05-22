@@ -1,0 +1,2 @@
+a:3:{s:1:"d";a:2:{i:0;s:177:"<div class="alert alert-danger"><p class="text-center">Wystąpił błąd! 10061: Nie mo¿na nawi¹zaæ po³¹czenia, poniewa¿ komputer docelowy aktywnie go odmawia.
+</p></div>";i:1;s:19:"22-05-2018 10:11:35";}s:1:"t";O:8:"DateTime":3:{s:4:"date";s:26:"2018-05-22 10:13:35.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Warsaw";}s:1:"g";a:0:{}}
